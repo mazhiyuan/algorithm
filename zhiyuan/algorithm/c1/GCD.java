@@ -5,7 +5,7 @@ package zhiyuan.algorithm.c1;
 
 /**
  * @author mazhiyuan
- * ×î´ó¹«Ô¼Êý -- Å·¼¸ÀïµÃËã·¨
+ * ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ -- Å·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã·¨
  */
 public class GCD {
 	public static int gcd(int i,int j){
@@ -18,8 +18,6 @@ public class GCD {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(gcd(10,6));
-		System.out.println((int)10.1d);
-	}
-
+        System.out.println(gcd(10, 6));
+    }
 }
